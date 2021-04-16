@@ -2,7 +2,7 @@
 
 > Social network for musicians
 
-This is a MERN stack application built on the basis of the [DevConnector 2.0](https://github.com/bradtraversy/devconnector_2.0) from Brad Traversy. With modifications to the user profile, including audio upload & streaming and youtube video streaming.
+This is a MERN stack application built on the basis of the [DevConnector 2.0](https://github.com/bradtraversy/devconnector_2.0) from @Brad Traversy. With modifications to the user profile, including audio upload & streaming and youtube video streaming.
 
 # Quick Start
 
